@@ -11,10 +11,6 @@ A powerful and customizable voice assistant built with Python! This project lets
 - **Custom Commands**: Easily add your own commands and responses.
 - **Cross-Platform**: Works on Windows, macOS, and Linux.
 
-## Demo
-
-![Voice Assistant Demo](demo.gif)  
-*See the assistant in action!*
 
 ## Getting Started
 
